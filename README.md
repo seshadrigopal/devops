@@ -1,2 +1,2 @@
 # devops
-practing git
+practicing git
